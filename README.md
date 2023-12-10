@@ -1,4 +1,7 @@
 # TextEncryption-Decryption
+Conorbarratt 000830777
+
+**PLEASE VIEW THIS readME as "CODE" OR DOWNLOAD TO SEE THE FULL FILE**
 
 **REFERENCES PROVIDED AT THE BOTTOM OF THE FILE**
 
@@ -24,7 +27,7 @@ you can install with - pip install cryptography
 
 Usage Guide:
 
-The scrip makes use of the argparse library, users will provide arguments when running the script.
+The script makes use of the argparse library, users will provide arguments when running the script.
 
 PLEASE NOTE: IN order to run this script you MUST be in the same directory as the EncryptDecrypt.py file
 
