@@ -1,4 +1,5 @@
 # TextEncryption-Decryption
+Conorbarratt #000840777
 
 **PLEASE VIEW THIS readME as "CODE" OR DOWNLOAD TO SEE THE FULL FILE**
 
