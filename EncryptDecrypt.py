@@ -1,3 +1,4 @@
+#Conorbarratt 000830777
 from cryptography.fernet import Fernet # For encyption and decryption
 import argparse # For parsing command line arguments
 import os # For interacting with the OS
