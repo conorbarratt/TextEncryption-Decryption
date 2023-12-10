@@ -1,6 +1,7 @@
 # TextEncryption-Decryption
 
 **PLEASE VIEW THIS readME as "CODE" OR DOWNLOAD TO SEE THE FULL FILE**
+
 **REFERENCES PROVIDED AT THE BOTTOM OF THE FILE**
 
 Description:
